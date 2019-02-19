@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 29 05:24:41 2018
 
-@author: paipradeep
-"""
 
 import pandas as pd
 from sklearn.utils import shuffle
